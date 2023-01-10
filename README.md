@@ -2,6 +2,7 @@
 A game I made in Excel using VBA and SQL replicating the classic board game Stock Ticker.
 
 ## Running the game
+* Make sure you have Microsoft Access installed, this will be used as a database
 * Download the zip and extract the files 
 * Open up the Excel file 
 
