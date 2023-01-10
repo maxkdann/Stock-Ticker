@@ -34,6 +34,7 @@ Once you have created a new account or logged into an existing account (that sti
 Game Rules
 Start
 A player starts the game with $5000, with this money they can choose to buy any of the following 6 stocks: Gold, Silver, Bonds, Oil, Industrial or Grain in increments of 500, 1000, or 2000. Each stock has an initial par value of 100 ($1 or 100 cents) and the player can decide to buy as many (or few) stocks as they would like. You will have 10 minutes to make as much money as possible and try to beat the high score. Remember: buy low, sell high.
+
  ![image](https://user-images.githubusercontent.com/49764019/211650645-7230b465-d639-4f18-aa00-321a76f3e1a8.png)
 
 Each time the market opens this menu will pop up, the first two options take you to identical screens to buy and sell stocks, the third simply returns you to the game.
