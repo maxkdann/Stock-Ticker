@@ -22,8 +22,7 @@ If creating a new account this form will pop up, as long as your username isn’
 
  ![image](https://user-images.githubusercontent.com/49764019/211650585-af684c4d-6db1-4a27-90b0-8b1cfe0d748d.png)
 
-A new account will be created with the username and password you enter
-If you’re logging into an existing account than you will be directed to login instead.
+A new account will be created with the username and password you enter. If you’re logging into an existing account than you will be directed to login instead.
  ![image](https://user-images.githubusercontent.com/49764019/211650605-75f5cc91-7567-4036-a944-72be70c1cb7e.png)
 
 If the username and password entered match the information stored in the database you be entered into your saved game.
