@@ -30,9 +30,9 @@ All passwords are hashed using the SHA-1 hashing algorithm and then stored secur
  ![image](https://user-images.githubusercontent.com/49764019/211650620-32acc9d8-4d21-4463-b60a-32aa4ab2f4b8.png)
 
 Passwords are stored securely in hashes instead of plain text.
-Once you have created a new account or logged into an existing account (that still had time remaining) then you be directed into the game.
-Game Rules
-Start
+Once you have created a new account or logged into an existing account (that still had time remaining) then you will be directed into the game.
+# Game Rules
+## Start
 A player starts the game with $5000, with this money they can choose to buy any of the following 6 stocks: Gold, Silver, Bonds, Oil, Industrial or Grain in increments of 500, 1000, or 2000. Each stock has an initial par value of 100 ($1 or 100 cents) and the player can decide to buy as many (or few) stocks as they would like. You will have 10 minutes to make as much money as possible and try to beat the high score. Remember: buy low, sell high.
 
  ![image](https://user-images.githubusercontent.com/49764019/211650645-7230b465-d639-4f18-aa00-321a76f3e1a8.png)
@@ -42,7 +42,7 @@ Each time the market opens this menu will pop up, the first two options take you
 
 To buy a stock, click the stock name and then the amount. If you have enough money the stock will be purchased. Clicking Close will return you to the game and clicking Return to Menu will bring you back to the previous screen where you can then elect to sell stocks as well.
 
-The Play
+## The Play
 The behaviour of the stocks is determined by the rolls of three dice. The first die specifies the stock, the second the amount (5, 10 or 20) and the third the action (up, down or dividend). The up and down movements are fairly obvious, with the specified stock moving in the specified direction the specified amount. 
  ![image](https://user-images.githubusercontent.com/49764019/211650691-20fd8f8f-93cc-4194-8b10-8ee405385dcb.png)
 
@@ -69,5 +69,5 @@ Every five turns the market opens. At this point (and only at this point), a pla
  ![image](https://user-images.githubusercontent.com/49764019/211650813-7b0b1b21-147f-41ae-8783-c3d6a3ce0bd4.png)
 
 This table shows the prices of each stock in each increment available for purchase.
-Finishing the game
+## Finishing the game
 At the end of the time limit, your final net worth is calculated based on the amount of cash you have plus the current market value of all stocks you own. A report is generated that compares your score with the high score.
