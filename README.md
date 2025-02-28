@@ -16,9 +16,7 @@ Click Play to start the game
 Once you click Play you will be prompted to either create a new account by clicking “new User” or log into an existing save using “Existing User”.
  ![image](https://user-images.githubusercontent.com/49764019/211650536-4cef840f-1729-47d0-8c3e-8daa0dc56d07.png)
 
-Click one of the two options
- 
-If creating a new account this form will pop up, as long as your username isn’t already in the database a new account will be created.
+Click one of the two options. If creating a new account this form will pop up, as long as your username isn’t already in the database a new account will be created.
 
  ![image](https://user-images.githubusercontent.com/49764019/211650585-af684c4d-6db1-4a27-90b0-8b1cfe0d748d.png)
 
