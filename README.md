@@ -3,8 +3,9 @@ A game I made in Excel using VBA and SQL replicating the classic board game Stoc
 
 ## Running the game
 * Make sure you have Microsoft Access installed, this will be used as a database
-* Download the zip and extract the files 
-* Open up the Excel file 
+* Download the zip and extract the files
+* Open up the Excel file
+* To enable macros for files downloaded from the internet right click on the file in file explorer, click properties, at the bottom of the general tab check Unblock
 
 Using the Application
 If you have never played the game, this is a manual explaining how the application works as well as the rules of the game. Click Play to begin the game.
